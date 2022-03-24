@@ -1,2 +1,1 @@
-# naturalidiot.github.io
 ## Test
