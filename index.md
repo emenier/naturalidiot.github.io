@@ -2,4 +2,4 @@
 ## Low Dimension
 ![Alt Text](resources/LowDim_gif.gif)
 ## MNIST
-![Alt Text](resources/mnist_gif.gif)
+![Alt Text](https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/mnist_gif.gif)
