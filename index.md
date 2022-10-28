@@ -1,4 +1,8 @@
+---
+title: Animations
+---
 # Generative Models
+
 ## Low Dimension
 
 <img src="https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/LowDim_gif.gif?raw=true" alt="Low Dimensional Tests" width="700"/>
