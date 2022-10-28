@@ -1,7 +1,7 @@
 # Generative Models
 ## Low Dimension
 
-![An amimated Gif](https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/LowDim_gif.gif)
+![](https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/LowDim_gif.gif)
 
 ## MNIST
 
