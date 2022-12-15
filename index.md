@@ -15,3 +15,7 @@ title: Animations
 ## MNIST
 
 <img src="https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/mnist_gif.gif?raw=true" alt="MNIST Generation" width="700" />
+
+## B&W CELEBS
+
+<img src="https://github.com/naturalidiot/naturalidiot.github.io/blob/master/ressources/celeb_anim.gif?raw=true" alt="CELEB Generation" width="700" />
